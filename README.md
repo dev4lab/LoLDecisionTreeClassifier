@@ -1,4 +1,4 @@
-# League of Legends match result prediction through Desicion Tree
+# League of Legends match result prediction through Decision Tree
 
 This repository contains the source code and data used to write [this notebook](https://www.kaggle.com/natliacarvalho/league-of-legends-decision-trees).
 
